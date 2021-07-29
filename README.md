@@ -6,7 +6,7 @@ step-1
 # The project was created using npm command create-react-app
 
 Step-2
-# Clone the project from my repo to yor local
+# Clone the project from my repo to your local
 
 step-3
 # open the project in the visual studio and run npm i to load all npm packages which I ignored using gitignore file so I can reduce no of files pushing to github
