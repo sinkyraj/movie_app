@@ -1,3 +1,5 @@
+//The moviedb App
+
 import React from "react";
 import { MovieState } from "./Context/MovieContext";
 import Hero from "./components/Hero/Hero";
